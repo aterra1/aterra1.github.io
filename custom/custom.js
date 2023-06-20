@@ -1,7 +1,7 @@
 //All ready!. Page &  Cordova loaded.
 //Todo listo!. Página & Cordova cargados.
 
-const serverUrl = 'http://18.119.119.39:3000'
+const serverUrl = 'https://18.119.119.39:3000'
 
 let userName = "tester"
 let title = ""
